@@ -1,0 +1,18 @@
+SITE - ATIVIDADE PRÁTICA I
+
+Projeto desenvolvido para fins acadêmicos.
+Autor: João Carlos de Souza Espinato
+Telefone: 28999644083
+
+Arquivos:
+- index.html
+- progresso.html
+- atividades.html
+- style.css
+- README.md
+
+Como testar:
+1. Abra index.html no navegador.
+2. Reduza a janela ou abra pelo celular para verificar a responsividade.
+
+Observação: os dados de progresso do aluno João da Terra são demonstrativos, conforme o enunciado da atividade.
